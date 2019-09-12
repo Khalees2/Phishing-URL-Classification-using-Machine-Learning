@@ -8,3 +8,10 @@ Credit will be given for incorporating dynamic features (i.e. ones not generated
 
 Your research will reveal that a variety of machine learning algorithms have been applied to the URL classification problem. Credit will be given for comparing the performance of 2-3 such algorithms in your paper.
 
+# Features Extracted
+
+#### A. Dynamic Features
+
+1. whois
+2. nslookup
+
